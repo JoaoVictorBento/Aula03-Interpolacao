@@ -1,0 +1,16 @@
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\bin\Debug\Aula 2 - exercicio 1.exe.config
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\bin\Debug\Aula 2 - exercicio 1.exe
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\bin\Debug\Aula 2 - exercicio 1.pdb
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.csproj.AssemblyReference.cache
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.csproj.SuggestedBindingRedirects.cache
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.csproj.CoreCompileInputs.cache
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.exe
+D:\Users\joao.vbsantos37\source\repos\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.pdb
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.csproj.AssemblyReference.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.csproj.SuggestedBindingRedirects.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.csproj.CoreCompileInputs.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.exe
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\obj\Debug\Aula 2 - exercicio 1.pdb
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\bin\Debug\Aula 2 - exercicio 1.exe.config
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\bin\Debug\Aula 2 - exercicio 1.exe
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Aula 2 - exercicio 1\bin\Debug\Aula 2 - exercicio 1.pdb
